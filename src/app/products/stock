@@ -1,0 +1,130 @@
+<div>
+    <h1><b>Stock</b></h1>
+        <table>
+            <tr>
+                <th class="th">S.No</th>
+                <th>Product Name</th>
+                <th>Preview</th>
+                <th>Delete</th>
+                <th>Update</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Battery</td>
+                <td><img class="img" src="src\assets\img\Battery.jpeg"></td>
+                <td>
+                    <form name="f2" action="javascript:select();">
+                        <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                    </form>
+                </td>
+                <td>
+                    <form name="f2" action="javascript:select();">
+                        <input id="Update" type="submit" name="Update" value="Update"/>
+                    </form>
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Fender Liener</td>
+                <td><img src="src\assets\img\FenderLiener.jpeg"></td>
+                <td>
+                    <form name="f2" action="javascript:select();">
+                        <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                    </form>
+                </td>
+                <td>
+                    <form name="f2" action="javascript:select();">
+                        <input id="Update" type="submit" name="Update" value="Update"/>
+                    </form>
+                </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Fog Light</td>
+                <td><img src="src\assets\img\fogLight.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Front Bumper</td>
+                <td><img src="src\assets\img\frontBumper.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Head Light</td>
+                <td><img src="src\assets\img\headLight.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Hubcup</td>
+                <td><img src="src\assets\img\hubcap.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Jumper</td>
+                <td><img src="src\assets\img\jumper.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Side Mirror</td>
+                <td><img src="src\assets\img\sidemirror.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Tiel Light</td>
+                <td><img src="src\assets\img\tielLigth.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Tier</td>
+                <td><img src="src\assets\img\Tier.jpeg"></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Delete" type="submit" name="Delete" value="Delete"/>
+                </form></td>
+                <td> <form name="f2" action="javascript:select();">
+                    <input id="Update" type="submit" name="Update" value="Update"/>
+                </form></td>
+            </tr>
+        </table>
+</div>
