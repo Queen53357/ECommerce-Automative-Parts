@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # ECommerce-Automative-Parts
-E-Commerce website using angular
-=======
 # EcommerceFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
